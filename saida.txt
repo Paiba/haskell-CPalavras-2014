@@ -1,0 +1,26 @@
+Conjunto de palavras:["ENGENHEIRO","HASKELL","BITS","ENGRENAGEM","COMPUTADOR","MAQUINA","ESTUDO"]
+
+Matriz:n=10
+
+ENGENHEIRO
+QPLISADFOB
+FKWXESTUDO
+SLETDKJRAL
+DDURBEIOTT
+AHQYALHDUY
+ZOSOELIUPJ
+PCAGSOVPMK
+FHECYIVGOX
+TRSTIBUUCD
+
+
+
+[("BITS",13)]
+
+[("BITS",1),("COMPUTADOR",1),("ENGENHEIRO",1),("ESTUDO",1),("HASKELL",1)]
+
+[("ENGENHEIRO",55),("COMPUTADOR",46),("ESTUDO",33),("HASKELL",25),("BITS",13)]
+
+[("ENGENHEIRO",0,"esquerda-direita"),("HASKELL",0,"topo-baixo"),("BITS",5,"direita-esquerda"),("COMPUTADOR",9,"baixo-topo"),("ESTUDO",4,"esquerda-direita")]
+
+[("horizontal",3)]
